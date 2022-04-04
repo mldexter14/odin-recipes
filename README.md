@@ -1,1 +1,2 @@
 # odin-recipes
+This project assignment is to create a website of recipes. At the end of this project, I will have demonstrated how to make an index page with links to other recipe pages with images and lists. I will also use Git to save and upload my project to github. 
